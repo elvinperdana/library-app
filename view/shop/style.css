@@ -1,0 +1,35 @@
+@media print {
+    .hide {
+        display: none;
+    }
+}
+
+.bg-footer-css {
+    background-color: #112031;
+    padding : 5px 0;
+}
+
+.bg-title-transaction {
+    background-color: #FFE3E3;
+    border-radius: 5px ;
+    padding: 20px 0;
+    margin-bottom: 50px;
+}
+
+.bg-header-css {
+    background-color: #93B5C6;
+}
+
+.bg-navbar-css {
+    background-color: #C9CCD5;
+}
+
+.bg-form-css{
+    background-color: #E4D8DC;
+    border-radius:10px !important;
+}
+
+form{
+    padding-bottom:20px;
+}
+
